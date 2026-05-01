@@ -4,6 +4,8 @@ A lightweight qualitative coding tool for organizing clinical interview transcri
 
 ## Step 1: Create a React app
 
+```
 npm create vite@latest clinical-interview-theme-coder -- --template react
 cd clinical-interview-theme-coder
 npm install
+```
