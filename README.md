@@ -8,5 +8,17 @@ A lightweight qualitative coding tool for organizing clinical interview transcri
 npm create vite@latest clinical-interview-theme-coder -- --template react
 cd clinical-interview-theme-coder
 npm install
-
 ```
+Install the package used by the app:
+```
+npm install framer-motion
+```
+
+## Step 2: Replace src/App.jsx
+Open:
+```
+src/App.jsx
+```
+Delete the starter code and paste the app code from the canvas.
+
+##
