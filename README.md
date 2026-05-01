@@ -1,2 +1,3 @@
-# Clinic-Interview-Theme-Coder
-A small tool that helps organize and code qualitative interview data.
+# Clinical Interview Theme Coder
+
+A lightweight qualitative coding tool for organizing clinical interview transcripts, tagging quotes by theme, visualizing theme frequency, and exporting coded excerpts for analysis.
