@@ -48,7 +48,7 @@ If shadcn setup asks to configure Tailwind, let it do that. Then check that your
 ```
 
 ## Step 5: Run the APP
-</Bash> 
+</> Bash
 ```
 npm run dev
 ```
