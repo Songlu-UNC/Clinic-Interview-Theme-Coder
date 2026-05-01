@@ -2,6 +2,33 @@
 
 A lightweight qualitative coding tool for organizing clinical interview transcripts, tagging quotes by theme, visualizing theme frequency, and exporting coded excerpts for analysis.
 
+## Project Purpose
+
+This project supports clinical UX research and health informatics studies by helping researchers organize interview data from clinicians, patients, or healthcare staff.
+
+## Features
+
+- Paste or upload `.txt` interview transcripts
+- Highlight and code selected quotes
+- Use default themes related to EHR usability and clinical workflow
+- Add custom themes
+- Add analytic memos
+- View theme frequency
+- Search coded excerpts
+- Export coded data as CSV
+
+## Example Use Case
+
+A researcher studying EHR usability can upload interview transcripts from physicians or nurses, tag quotes related to cognitive load, documentation burden, workflow interruption, and information fragmentation, then export the coded excerpts for further analysis.
+
+## Tech Stack
+
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+
 ## Step 1: Create a React app
 </> Bash
 ```
