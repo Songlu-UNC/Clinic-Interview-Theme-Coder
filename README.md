@@ -39,8 +39,8 @@ src/App.jsx
 Delete everything inside it, then paste the app code from the canvas.
 
 ## Step 4: Make sure Tailwind works
-</> CSS
 If shadcn setup asks to configure Tailwind, let it do that. Then check that your src/index.css includes:
+</> CSS
 ```
 @tailwind base;
 @tailwind components;
