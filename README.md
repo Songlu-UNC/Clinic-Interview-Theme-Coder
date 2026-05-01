@@ -52,10 +52,8 @@ If shadcn setup asks to configure Tailwind, let it do that. Then check that your
 ```
 npm run dev
 ```
-Then open the local URL Vite shows, usually:
-```
-http://localhost:5173
-```
+Then open the local URL Vite shows, usually: http://localhost:5173
+
 
 
 
